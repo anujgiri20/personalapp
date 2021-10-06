@@ -1,0 +1,351 @@
+body{
+  text-align: center;
+  margin:0;
+  background-color:white;
+  font-family: 'Open Sans Condensed', sans-serif;
+
+
+}
+/*marvelsection*/
+
+/*endmarvelsection*/
+.naka{background-image: url("../image/marvel.jpg");
+
+background-repeat: no-repeat;
+background-size: cover;
+background-color: transparent;
+background-position: 50% 50%;
+
+min-height: 0px;
+padding-top: 319px;
+padding-bottom: 319px;
+
+}
+
+
+.name{
+
+background-color:;
+font-family: 'Marvel', sans-serif;
+font-weight:600;
+color:white;
+  font-size: 5.9rem;
+  margin-top:0px;
+position:relative;
+bottom:250px;
+
+}
+.SKL{ BACKGROUND: linear-gradient(
+  271deg
+  ,#FCDEC0 30%,white 50%,#E5B299 70%,white 94% );
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-weight:600;
+padding-top: 100PX;
+
+}
+
+h2{
+
+  font-size:2rem;
+  padding-bottom: 10px;
+  padding-top: 20px;
+font-family: 'Open Sans Condensed', sans-serif;
+color:white;
+}
+
+
+h3{
+  font-size:1.5rem;
+
+    width:30%;
+    margin:auto;
+
+}
+.HEHE{
+color: black;
+font-weight:600;
+}
+
+
+.rioo{
+font-size: 2rem;
+font-weight: 600;
+color:white;
+background-color:#550703;
+position:relative;
+font-family:'Marvel', sans-serif;
+bottom:280px;
+  font-size: 2rem;
+  margin-top:50px;
+}
+
+.comp{
+  width:100%;
+}
+
+.img1{
+  position:relative;
+  left:0px;
+}
+
+
+.middle-container{
+  color:black;
+  margin:0;
+
+}
+.and{ width:60%;
+PADDING:0 AUTO 0 AUTO;
+BACKGROUND-COLOR:#550703;
+
+}
+.profile{
+  padding-top:0px;
+  padding-bottom:30px;
+  font-size:1.2rem;
+  background-image: url("../image/marv.jpg");
+margin:5px 0px 5px 0px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+  background-position: 50% 50%;
+
+  min-height: 0px;
+  padding-top:;
+  padding-bottom:50PX;
+}
+
+.contact-me{
+  margin:35px 0px 35px 0spx;
+  BACKGROUND: linear-gradient(
+    271deg
+    ,#FCDEC0 30%,white 50%,#E5B299 70%,white 94% )
+    ;
+
+  padding-bottom: 100px;
+}
+.imq{
+  width:25%;
+ float:left;
+  margin-right:10px;
+}
+.imw{
+  margin-top:100px;
+  width:25%;
+
+}
+
+.mainclass{
+  text-align:left;
+  width:50%;
+  margin:auto;
+  margin-left:200px;
+}
+.oneone{
+  width:50%;
+  margin:auto;
+  padding-bottom:100px;
+  font-size: 1.5rem;
+  font-weight:500;
+  color:white;
+font-family: 'Open Sans Condensed', sans-serif;
+}
+.skill-row1{
+  width:50%;
+    margin:100px auto 100px auto;
+  BACKGROUND: linear-gradient(
+    271deg
+    ,#FCDEC0 30%,white 50%,#E5B299 70%,white 94% )
+    ;
+  text-align:left;
+  line-height: 2;
+  padding-top:70px;
+  padding-bottom:70px;
+
+}
+.skill-row2{
+  width:50%;
+  margin:100px auto 100px auto;
+  BACKGROUND: linear-gradient(
+    271deg
+    ,#FCDEC0 30%,white 50%,#E5B299 70%,white 94% )
+    ;
+  text-align:left;
+  line-height: 2;
+  padding-top:70px;
+  padding-bottom:70px;
+}
+.skill-row3{
+  width:50%;
+  margin:100px auto 100px auto;
+  BACKGROUND: linear-gradient(
+    271deg
+    ,#FCDEC0 30%,white 50%,#E5B299 70%,white 94% )
+    ;
+  text-align:left;
+  line-height: 2;
+  padding-top:70px;
+  padding-bottom:70px;
+}
+.skill-row4{
+  width:50%;
+  margin:100px auto 100px auto;
+  BACKGROUND: linear-gradient(
+    271deg
+    ,#FCDEC0 30%,white 50%,#E5B299 70%,white 94% )
+    ;
+  text-align:left;
+  line-height: 2;
+  padding-top:70px;
+  padding-bottom:70px;
+}
+.ekk{
+  float:left;
+  width:25%;
+  margin-right: 30px;
+
+}
+
+.doo{
+  float:right;
+  width:25%;
+  margin-left:30px;
+
+}
+.teen{
+  float:right;
+  width:25%;
+  margin-right: 30px;
+
+}
+p{line-height: 2;}
+hr{
+
+  border:dotted white 6px;
+  border-bottom: none;
+  margin:0 auto 0 auto;
+  width:3%;
+
+}
+.kon{
+  width:40%;
+  margin:40px auto 40px auto;
+}
+
+.btn{font-family:'Italianno', cursive;
+font-weight: bold;
+text-decoration: underline;
+font-size: 1.5rem;}
+
+.ANU{COLOR:WHITE;
+font-size: 1rem;}
+a{color:#222831;
+margin:10px;
+text-decoration: none;}
+a:hover{color:white;}
+.copyright{
+  color:#e8f6f6;
+  font-size: 0.50rem;
+}
+.FRONT{color: black;
+font-weight:500;
+
+  padding-left: 200PX;
+  font-size:1.5rem;
+  text-align:left;
+}
+.cod{
+color: black;
+  font-weight:500;
+  font-size:1.5rem;
+text-align:right;
+padding-right:200px;}
+
+.data{font-size:1.5rem;
+text-align:right;
+padding-right:150px;
+color: black;
+font-weight:500;
+
+}
+.kon{
+  font-size:1.5rem;
+  font-weight: 500;
+}
+.ro{font-size: 1.5rem;
+  text-align:left;
+  padding-left:250px;
+  font-weight:500;
+color: black;
+}
+.gisimg{width:25%;
+float:left;
+}
+
+.head{background-color:black;
+padding-top:20px;
+position:absolute;
+  left:10px;
+}
+.EYE{COLOR:BLACK;padding-top: 100PX;}
+.skills{  background-image: url("../image/.jpg");
+
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: transparent;
+  background-position: 50% 50%;
+
+  min-height: 0px;
+  padding-top:;
+  padding-bottom:;
+  margin:5px 0px 5px 0px;
+  padding-bottom: 100px;
+
+}
+/*midleoone*/
+.table{width:50%;
+margin:auto;
+
+padding-bottom:80px;
+padding-right:55px;
+padding-top:50px;
+
+line-height: 3;
+
+
+}
+.skilll{
+  padding-bottom: 0px;
+  font-size:2rem;
+  color:;
+
+}
+.abi{text-align: center;
+padding-bottom: 0px;
+padding-top:50px;
+font-size: 3.5rem;
+color:;
+}
+
+.table2{
+
+  padding-top:50px;
+  width:50%;
+  margin:auto;
+  padding-right: 0px;
+  padding-bottom:80px;
+  padding-left:;
+  line-height: 3;
+}
+.sec-con{font-size: 1.5rem;
+background-color: #EF5A5A;
+color:white;
+padding-top:50px;}
+.Abiliti{
+  width:40%;
+border:solid white 1px;
+border-bottom: none;
+margin: auto;
+}
